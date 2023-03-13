@@ -1,4 +1,4 @@
-# event-schema-to-typescript
+# json-schema-to-typescript
 Builds typescript types from JSON Schemas
 
 ## Build
